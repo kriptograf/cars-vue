@@ -1,5 +1,13 @@
 # vue-auto
 
+Учебный проект.
+
+Практическое занятие. Использование vue-router и vue-recource
+
+Использование библиотеки Vuelidate для валидации полей.
+
+Стилевое оформление bootstrap 4.2
+
 ## Project setup
 ```
 npm install
